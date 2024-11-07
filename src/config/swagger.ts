@@ -12,6 +12,10 @@ const swaggerDefinition = {
       url: "http://localhost:8080",
       description: "Localhost",
     },
+    {
+      url: "https://express-chat-api-fxqg.onrender.com",
+      description: "Render",
+    },
   ],
   components: {
     schemas: {
